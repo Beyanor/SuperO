@@ -16,4 +16,4 @@ L'application est réservée à son développeur et n'est pas ouverte au public.
 ## Contact
 supero.sizzle351@passmail.net
 
-[Politique de confidentialité](https://beyanor.github.io/superO/privacy.html)
+[Politique de confidentialité](https://beyanor.github.io/SuperO/privacy)
